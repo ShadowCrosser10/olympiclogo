@@ -1,0 +1,13 @@
+body {
+    font-family: 'Cinzel', serif;
+}
+
+#body_and_bg {
+    background-image: url("nice_bg.jpg");
+}
+
+#my_Canvas {
+    border-style: ridge;
+    background-color:white;
+    border-width:10px;
+}
